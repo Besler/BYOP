@@ -26,6 +26,10 @@ or
 form.
 Details will go out through the calendar, so we recommend you use the HTLM version to get updates.
 
+### Expected Background
+Generally, attendees should have some knowledge of physics, chemistry, and biology as well as superficial knowledge of PDEs and vector calculus.
+If math is needed to describe a topic, it is encouraged, but it should not be a crutch.
+
 ### Organization
 This group is ran by David Garrett (CalTech) and Bryce Besler (Calgary).
 An hour is scheduled as the maximum time for the meeting.
@@ -34,9 +38,5 @@ If you need a prescribed format, we recommend 20 minutes of presentation and 20 
 It is generally not expected that the audience has read the paper before hand, but the paper is shared before hand for those interested.
 Politics is strictly off topic.
 We hope to curate a vibe of "momentous and gleeful curiosity".
-
-### Expected Background
-Generally, attendees should have some knowledge of physics, chemistry, and biology as well as superficial knowledge of PDEs and vector calculus.
-If math is needed to describe a topic, it is encouraged, but it should not be a crutch.
-
+To present, please contact David or Bryce directly.
 
