@@ -13,7 +13,7 @@ Bring those papers and discuss them with like minded individuals.
 Topics include physics, chemistry, and biology, but can be extended by an interested individual.
 
 ### Meetings
-Tuesdays  , 8 PM MT
+Tuesdays, 8 PM MT  
 [https://ucalgary.zoom.us/j/92908081215](
 https://ucalgary.zoom.us/j/92908081215)  
 506999
