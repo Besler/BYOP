@@ -16,15 +16,17 @@ Topics include physics, chemistry, and biology, but can be extended by an intere
 This group is ran by David Garrett (CalTech) and Bryce Besler (Calgary).
 
 ### Meetings
-> Tuesdays
-> 8 PM MT
-> https://ucalgary.zoom.us/j/92908081215
-> 506999
+Tuesdays  
+8 PM MT  
+https://ucalgary.zoom.us/j/92908081215  
+506999  
+Starting September 7th
 
-[Outlook Calendar HTLM](https://outlook.office365.com/owa/calendar/aa4e9638ed7149449a22dfd4d93daf6c@ucalgary.ca/70b7d28f9a514bb6b71ffe6efa609a1a15887750879980083409/calendar.html)
-
-[Outlook Calendar ICS](https://outlook.office365.com/owa/calendar/aa4e9638ed7149449a22dfd4d93daf6c@ucalgary.ca/70b7d28f9a514bb6b71ffe6efa609a1a15887750879980083409/calendar.ics)
-
+Get the Outlook Calendar in 
+[HTLM](https://outlook.office365.com/owa/calendar/aa4e9638ed7149449a22dfd4d93daf6c@ucalgary.ca/70b7d28f9a514bb6b71ffe6efa609a1a15887750879980083409/calendar.html)
+or 
+[ICS](https://outlook.office365.com/owa/calendar/aa4e9638ed7149449a22dfd4d93daf6c@ucalgary.ca/70b7d28f9a514bb6b71ffe6efa609a1a15887750879980083409/calendar.ics)
+form.
 
 
 
