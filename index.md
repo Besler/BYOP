@@ -1,2 +1,3 @@
-## BYOP
+## Bring Your Own Paper Reading Group
+
 
