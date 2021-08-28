@@ -1,19 +1,19 @@
-## Bring Your Own Paper Reading Group
+## Bring Your Own Paper (BYOP) Reading Group
 
-> Give me your tired, your poor,
-> Your huddled masses yearning to breathe free,
-> The wretched refuse of your teeming shore.
-> Send these, the homeless, tempest-tost to me,
+> Give me your tired, your poor,  
+> Your huddled masses yearning to breathe free,  
+> The wretched refuse of your teeming shore.  
+> Send these, the homeless, tempest-tost to me,  
 > I lift my lamp beside the golden door!"
 
-From "The New Colossus" by Emma Lazarus.
+From *The New Colossus* by Emma Lazarus.
 
 This reading group is for the papers yearning to breathe free.
-Bring the papers whose title you won't whispher in traditional company and share it with like minded individuals.
+Bring those papers and discuss them with like minded individuals.
+Topics include physics, chemistry, and biology, but can be extended by an interested individual.
 
 ### Organization
 This group is ran by David Garrett (CalTech) and Bryce Besler (Calgary).
-
 
 ### Meetings
 > Tuesdays
