@@ -18,7 +18,7 @@ Tuesdays, 8 PM MT
 https://ucalgary.zoom.us/j/92908081215)  
 506999
 
-The group starts September 7th and ends December 14th.
+The group starts September 14th and ends December 14th.
 Get the Outlook Calendar in 
 [HTLM](https://outlook.office365.com/owa/calendar/aa4e9638ed7149449a22dfd4d93daf6c@ucalgary.ca/70b7d28f9a514bb6b71ffe6efa609a1a15887750879980083409/calendar.html)
 or 
